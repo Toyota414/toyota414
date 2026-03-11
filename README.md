@@ -23,7 +23,7 @@
 ## 🛠 My Tools
 
 ![C++](https://skillicons.dev/icons?i=cpp)
-![HLSL](https://skillicons.dev/icons?i=HLSL-DirectX)
+![HLSL](https://skillicons.dev/icons?i=gtk)
 ![Visual Studio 22](https://skillicons.dev/icons?i=visualstudio)
 
 ---
