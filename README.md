@@ -24,7 +24,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-DirectX-blue?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Visual Studio 22]([https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode](https://skillicons.dev/icons?i=visualstudio))
 
 ---
 
