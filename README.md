@@ -1,72 +1,44 @@
-<h1 align="center">👋 Olá, eu sou Matheus Mesquita</h1>
+<h1 align="center">👋 Matheus Mesquita</h1>
 
 <p align="center">
-Desenvolvedor focado em <b>Gráficos, Shaders e Mods para Jogos</b>
+💻 Graphics Developer | C++ | HLSL | GTA V Modding
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 😊 About
 
-🧠 Domino **C / C++ do zero até avançado**  
-🎨 Criador de **Shaders em HLSLs**  
-💡 Foco em **renderização, iluminação e efeitos gráficos**
+```diff
++ I'm a lover of graphics programming and technology
 
----
+! Developing shaders for GTA V / FiveM
+! C++ and HLSL developer
+! Creating advanced visual effects
 
-## 🧠 Tecnologias que utilizo
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
-
-</p>
-
-**Linguagens e tecnologias**
-
-- C++
-- C
-- HLSL
+# Interested in rendering, lighting and game graphics
+```
 
 ---
 
-## 🎮 Projetos
+## 🛠 My Tools
 
-### 🌟 Mods gráficos
-
-- **PureVisionFX**
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-DirectX-blue?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🔥 Contribuições
+## 🚀 Current Projects
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📫 Contato
-
-📧 Email: 
-💬 Discord: 
+- 🌥 Volumetric Clouds Shader
+- 💡 Advanced Lighting System
+- 🚗 Realistic Car Reflections
+- 🎥 Cinematic Depth of Field
 
 ---
 
-<p align="center">
-⚡ Desenvolvendo gráficos cada vez mais realistas para jogos
-</p>
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
