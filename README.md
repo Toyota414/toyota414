@@ -22,8 +22,8 @@
 
 ## 🛠 My Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-DirectX-blue?style=for-the-badge)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HLSL](https://skillicons.dev/icons?i=HLSL-DirectX)
 ![Visual Studio 22](https://skillicons.dev/icons?i=visualstudio)
 
 ---
