@@ -30,10 +30,7 @@
 
 ## 🚀 Current Projects
 
-- 🌥 Volumetric Clouds Shader
-- 💡 Advanced Lighting System
-- 🚗 Realistic Car Reflections
-- 🎥 Cinematic Depth of Field
+-
 
 ---
 
